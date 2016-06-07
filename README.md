@@ -1,6 +1,6 @@
 # Loop for iOS
 
-![App Icon](https://raw.githubusercontent.com/loudnate/naterade-ios/master/naterade-ios/Assets.xcassets/AppIcon.appiconset/40%402x.png) ![WatchApp Icon](https://raw.githubusercontent.com/loudnate/naterade-ios/master/WatchApp/Assets.xcassets/AppIcon.appiconset/watch-40%402x.png)
+![App Icon](/Loop/Assets.xcassets/AppIcon.appiconset/40%402x.png?raw=true) ![WatchApp Icon](/WatchApp/Assets.xcassets/AppIcon.appiconset/watch-40%402x.png?raw=true)
 
 [![Build Status](https://travis-ci.org/loudnate/Loop.svg?branch=naterade)](https://travis-ci.org/loudnate/Loop)
 
@@ -10,18 +10,18 @@ Please understand that this project:
 - Is highly experimental
 - Is not approved for therapy
 
-<a href="https://raw.githubusercontent.com/loudnate/naterade-ios/master/Documentation/Screenshots/Phone%20Graphs.png"><img src="https://raw.githubusercontent.com/loudnate/naterade-ios/master/Documentation/Screenshots/Phone%20Graphs.png" alt="Screenshot of status screen" width="170"></a>
-<a href="https://raw.githubusercontent.com/loudnate/naterade-ios/master/Documentation/Screenshots/Phone%20Bolus.png"><img src="https://raw.githubusercontent.com/loudnate/naterade-ios/master/Documentation/Screenshots/Phone%20Bolus.png" alt="Screenshot of bolus screen" width="170"></a>
-<a href="https://raw.githubusercontent.com/loudnate/naterade-ios/master/Documentation/Screenshots/Phone%20Notification%20Battery.png"><img src="https://raw.githubusercontent.com/loudnate/naterade-ios/master/Documentation/Screenshots/Phone%20Notification%20Battery.png" alt="Screenshot of battery change notification" width="170"></a>
-<a href="https://raw.githubusercontent.com/loudnate/naterade-ios/master/Documentation/Screenshots/Phone%20Notification%20Loop%20Failure.png"><img src="https://raw.githubusercontent.com/loudnate/naterade-ios/master/Documentation/Screenshots/Phone%20Notification%20Loop%20Failure.png" alt="Screenshot of loop failure notification" width="170"></a>
-<a href="https://raw.githubusercontent.com/loudnate/naterade-ios/master/Documentation/Screenshots/Phone%20Notification%20Bolus%20Failure.png"><img src="https://raw.githubusercontent.com/loudnate/naterade-ios/master/Documentation/Screenshots/Phone%20Notification%20Bolus%20Failure.png" alt="Screenshot of bolus failure notification" width="170"></a>
+<a href="/Documentation/Screenshots/Phone%20Graphs.png"><img src="/Documentation/Screenshots/Phone%20Graphs.png?raw=true" alt="Screenshot of status screen" width="170"></a>
+<a href="/Documentation/Screenshots/Phone%20Bolus.png"><img src="/Documentation/Screenshots/Phone%20Bolus.png?raw=true" alt="Screenshot of bolus screen" width="170"></a>
+<a href="/Documentation/Screenshots/Phone%20Notification%20Battery.png"><img src="/Documentation/Screenshots/Phone%20Notification%20Battery.png?raw=true" alt="Screenshot of battery change notification" width="170"></a>
+<a href="/Documentation/Screenshots/Phone%20Notification%20Loop%20Failure.png"><img src="/Documentation/Screenshots/Phone%20Notification%20Loop%20Failure.png?raw=true" alt="Screenshot of loop failure notification" width="170"></a>
+<a href="/Documentation/Screenshots/Phone%20Notification%20Bolus%20Failure.png"><img src="/Documentation/Screenshots/Phone%20Notification%20Bolus%20Failure.png?raw=true" alt="Screenshot of bolus failure notification" width="170"></a>
 
-<a href="https://raw.githubusercontent.com/loudnate/naterade-ios/master/Documentation/Screenshots/Watch%20Complication.png"><img src="https://raw.githubusercontent.com/loudnate/naterade-ios/master/Documentation/Screenshots/Watch%20Complication.png" alt="Screenshot of glucose complication on Apple Watch" width="141"></a>
-<a href="https://raw.githubusercontent.com/loudnate/naterade-ios/master/Documentation/Screenshots/Watch%20Carb%20Entry.png"><img src="https://raw.githubusercontent.com/loudnate/naterade-ios/master/Documentation/Screenshots/Watch%20Carb%20Entry.png" alt="Screenshot of carb entry on Apple Watch" width="141"></a>
-<a href="https://raw.githubusercontent.com/loudnate/naterade-ios/master/Documentation/Screenshots/Watch%20Bolus.png"><img src="https://raw.githubusercontent.com/loudnate/naterade-ios/master/Documentation/Screenshots/Watch%20Bolus.png" alt="Screenshot of bolus entry on Apple Watch" width="141"></a>
-<a href="https://raw.githubusercontent.com/loudnate/naterade-ios/master/Documentation/Screenshots/Watch%20Notification%20Battery.png"><img src="https://raw.githubusercontent.com/loudnate/naterade-ios/master/Documentation/Screenshots/Watch%20Notification%20Battery.png" alt="Screenshot of bolus failure notification on Apple Watch" width="141"></a>
-<a href="https://raw.githubusercontent.com/loudnate/naterade-ios/master/Documentation/Screenshots/Watch%20Notification%20Reservoir.png"><img src="https://raw.githubusercontent.com/loudnate/naterade-ios/master/Documentation/Screenshots/Watch%20Notification%20Reservoir.png" alt="Screenshot of bolus failure notification on Apple Watch" width="141"></a>
-<a href="https://raw.githubusercontent.com/loudnate/naterade-ios/master/Documentation/Screenshots/Watch%20Notification%20Bolus%20Failure.png"><img src="https://raw.githubusercontent.com/loudnate/naterade-ios/master/Documentation/Screenshots/Watch%20Notification%20Bolus%20Failure.png" alt="Screenshot of bolus failure notification on Apple Watch" width="141"></a>
+<a href="/Documentation/Screenshots/Watch%20Complication.png"><img src="/Documentation/Screenshots/Watch%20Complication.png?raw=true" alt="Screenshot of glucose complication on Apple Watch" width="141"></a>
+<a href="/Documentation/Screenshots/Watch%20Carb%20Entry.png"><img src="/Documentation/Screenshots/Watch%20Carb%20Entry.png?raw=true" alt="Screenshot of carb entry on Apple Watch" width="141"></a>
+<a href="/Documentation/Screenshots/Watch%20Bolus.png"><img src="/Documentation/Screenshots/Watch%20Bolus.png?raw=true" alt="Screenshot of bolus entry on Apple Watch" width="141"></a>
+<a href="/Documentation/Screenshots/Watch%20Notification%20Battery.png"><img src="/Documentation/Screenshots/Watch%20Notification%20Battery.png?raw=true" alt="Screenshot of bolus failure notification on Apple Watch" width="141"></a>
+<a href="/Documentation/Screenshots/Watch%20Notification%20Reservoir.png"><img src="/Documentation/Screenshots/Watch%20Notification%20Reservoir.png?raw=true" alt="Screenshot of bolus failure notification on Apple Watch" width="141"></a>
+<a href="/Documentation/Screenshots/Watch%20Notification%20Bolus%20Failure.png"><img src="/Documentation/Screenshots/Watch%20Notification%20Bolus%20Failure.png?raw=true" alt="Screenshot of bolus failure notification on Apple Watch" width="141"></a>
 
 ### LoopKit
 
@@ -38,4 +38,4 @@ Just remember **Your Diabetes May Vary**. Your physiology, habits, and risk-tole
 
 # License and Code of Conduct
 
-Please read the [LICENSE](https://github.com/loudnate/naterade-ios/blob/master/LICENSE) and [CODE_OF_CONDUCT](https://github.com/loudnate/naterade-ios/blob/master/CODE_OF_CONDUCT.md)
+Please read the [LICENSE](/LICENSE) and [CODE_OF_CONDUCT](/CODE_OF_CONDUCT.md)
