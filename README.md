@@ -38,4 +38,4 @@ Just remember **Your Diabetes May Vary**. Your physiology, habits, and risk-tole
 
 # License and Code of Conduct
 
-Please read the [LICENSE](/LICENSE) and [CODE_OF_CONDUCT](/CODE_OF_CONDUCT.md)
+Please read the [LICENSE](/LICENSE.md) and [CODE_OF_CONDUCT](/CODE_OF_CONDUCT.md)
