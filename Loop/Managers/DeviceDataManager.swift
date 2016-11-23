@@ -35,6 +35,8 @@ final class DeviceDataManager: CarbStoreDelegate, CarbStoreSyncDelegate, DoseSto
 
     private var nightscoutDataManager: NightscoutDataManager!
 
+    private var pushStatusManager: PushStatusManager!
+
     // The Dexcom Share receiver object
     private var receiver: Receiver? {
         didSet {
@@ -997,6 +999,7 @@ final class DeviceDataManager: CarbStoreDelegate, CarbStoreSyncDelegate, DoseSto
         loopManager = LoopDataManager(deviceDataManager: self)
         watchManager = WatchDataManager(deviceDataManager: self)
         nightscoutDataManager = NightscoutDataManager(deviceDataManager: self)
+        pushStatusManager = PushStatusManager(deviceDataManager: self)
 
         carbStore?.delegate = self
         carbStore?.syncDelegate = self
